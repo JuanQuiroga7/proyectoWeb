@@ -1,0 +1,84 @@
+
+
+header{
+    /*background: red;*/
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+header div{
+    /* background: blue; */
+    color: white;
+    width: 500px;
+    display: flex;
+    gap: 60px;
+}
+
+header div p{
+    font-family: "Poppins", sans-serif;
+    
+}
+
+header h1{
+    color: #ff702a;
+    font-family: "Poppins", sans-serif;
+}
+
+
+body{
+    padding: 0px 65px;
+    background: #1e1d2b;
+    font-family: "Poppins";
+}
+
+.section_one{
+    /* background: lightcoral; */
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 50px;
+}
+
+.text_one{
+    /* background: lavender; */
+    margin-left: 80px;
+}
+
+.text_one h2{
+    color: #ff702a;
+    font-size: 90px;
+    font-family: "Poppins";
+    margin-bottom: 20px;
+}
+
+.text_one p{
+    color: #ffffff;
+    font-size: 25px;
+}
+
+.textfoods{
+    /* background: rgb(225, 8, 8); */
+    margin-bottom: 0px;
+}
+
+.textprec{
+    /* background: rgb(225, 8, 8); */
+    margin-top: 5px;
+}
+
+.text_one button{
+    background: #ff702a;
+    color: #ffffff;
+    padding: 10px 15px;
+    border: none;
+}
+
+.burguer_image{
+    /* background: floralwhite; */
+    display: flex;
+    justify-content: center;
+    margin-right: 50px;
+    margin-top: 30px;
+}
+
