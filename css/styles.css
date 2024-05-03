@@ -34,6 +34,8 @@ body{
 
 .section_one{
     /* background: lightcoral; */
+    width: 100%px;
+    height: 750px;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -80,5 +82,57 @@ body{
     justify-content: center;
     margin-right: 50px;
     margin-top: 30px;
+}
+
+.section_two{
+    /* background: lightcoral; */
+    width: 100%px;
+    height: 750px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 50px;
+    gap: 50px;
+}
+
+.burrito_image{
+    /* background: floralwhite; */
+    display: flex;
+    justify-content: center;
+    margin-left: 100px;
+    margin-top: 30px;
+}
+
+.text_two{
+    /* background: lavender; */
+    margin-right: 180px;
+}
+
+.about_uss{
+    /* background: rgb(225, 8, 8); */
+    color: #ff702a;
+    margin-bottom: 0px;
+    font-size: 30px;
+}
+
+.description_title{
+    /* background: rgb(225, 8, 8); */
+    margin-top: 5px;
+    margin-bottom: 5px;
+    color: #ffffff;
+    font-size: 70px;
+    font-family: "Poppins";
+}
+
+.description_text{
+    color: #ffffff;
+    font-size: 30px;
+}
+
+.text_two button{
+    background: #ff702a;
+    color: #ffffff;
+    padding: 10px 15px;
+    border: none;
 }
 
